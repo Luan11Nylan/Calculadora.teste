@@ -1,0 +1,8 @@
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2023\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
